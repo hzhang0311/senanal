@@ -1,5 +1,9 @@
 # senanal
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/hzhang0311/senanal/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hzhang0311/senanal/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 ## Installation
 
 ```r
