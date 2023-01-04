@@ -1,7 +1,6 @@
 #' One-way sensitivity analysis for CEA
 #'
 #' @description This is a function that provides an automatic calculation for an one-way sensitivity analysis used in CEA.
-#' Make sure that install three packages before loading this package: `ggplot2`, `plyr`, `dplyr` and `tidyverse`.
 #'
 #' @param data A data frame with four columns: 1) parameters 2) base value 3) lower bound and 4) upper bound.
 #' @param unit The unit of the outcome variable, e.g. 2022 USD.
